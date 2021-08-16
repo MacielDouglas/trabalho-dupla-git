@@ -1,0 +1,1 @@
+Atividade de ensino, realizada por duas pessoas;Com objetivo de aprimorar o uso do GIT com publicações e alterações de arquivos no repositório online GitHub.Adicionamos e publicamos o arquivo README.md e outros arquivos .txt
